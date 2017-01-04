@@ -1,5 +1,7 @@
 # YAML support for the Go language
 
+Forked to disable line wraps
+
 Introduction
 ------------
 
